@@ -22,7 +22,7 @@ Implementation of SHARP: Shielding-Aware Robust Planning for Safe and Efficient 
 <br />
 <p align="center">
   <a href="https://github.com/SafeRoboticsLab/SHARP">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Misc/SHARP.gif" alt="Logo" >
   </a>
 
   <h3 align="center">SHARP</h3>
