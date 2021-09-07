@@ -1,5 +1,5 @@
 # SHARP
-Implementation of SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction
+<!-- Implementation of SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction -->
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -174,7 +174,7 @@ Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/Safe
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SafeRoboticsLab/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/SafeRoboticsLab/SHARP/graphs/contributors
+[contributors-url]: https://github.com/SafeRoboticsLab/SHARP/contributors
 [forks-shield]: https://img.shields.io/github/forks/SafeRoboticsLab/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/SafeRoboticsLab/SHARP/network/members
 [stars-shield]: https://img.shields.io/github/stars/SafeRoboticsLab/repo.svg?style=for-the-badge
@@ -182,6 +182,6 @@ Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/Safe
 [issues-shield]: https://img.shields.io/github/issues/SafeRoboticsLab/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/SafeRoboticsLab/SHARP/issues
 [license-shield]: https://img.shields.io/github/license/SafeRoboticsLab/repo.svg?style=for-the-badge
-[license-url]: https://github.com/SafeRoboticsLab/SHARP/blob/master/LICENSE.txt
+[license-url]: https://github.com/SafeRoboticsLab/SHARP/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/SafeRoboticsLab
