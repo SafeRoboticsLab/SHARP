@@ -124,7 +124,7 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Haimin Hu - [@HaiminHu](https://twitter.com/HaiminHu) - [haiminh@princeton.edu](haiminh@princeton.edu)
+Haimin Hu - [@HaiminHu](https://twitter.com/HaiminHu) - haiminh@princeton.edu
 
 Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/SafeRoboticsLab/SHARP)
 
