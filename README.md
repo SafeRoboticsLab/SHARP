@@ -135,9 +135,7 @@ Homepage Link: [https://haiminhu.org/research/sharp/](https://haiminhu.org/resea
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* This research is supported by the [Princeton Project X](https://aspire-report.princeton.edu/engineering/project-x-fund) Program.
 
 
 
