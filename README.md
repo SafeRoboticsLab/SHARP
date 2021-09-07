@@ -9,12 +9,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![License][license-shield]][license-url]
+[![Homepage][homepage-shield]][homepage-url]
 
 
 
@@ -181,7 +177,9 @@ Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/Safe
 [stars-url]: https://github.com/SafeRoboticsLab/SHARP/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SafeRoboticsLab/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/SafeRoboticsLab/SHARP/issues
-[license-shield]: https://img.shields.io/github/license/SafeRoboticsLab/repo.svg?style=for-the-badge
-[license-url]: https://github.com/SafeRoboticsLab/SHARP/LICENSE.txt
+[license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
+[license-url]: https://opensource.org/licenses/BSD-3-Clause
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/SafeRoboticsLab
+[homepage-shield]: https://img.shields.io/badge/-Homepage-brightgreen
+[homepage-url]: https://haiminhu.org/research/sharp
