@@ -39,6 +39,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#dependencies">Dependencies</a></li>
     <li><a href="#example">Example</a></li>
+    <li><a href="#dataset">Dataset</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -57,8 +58,9 @@ The Python implementation is being actively developed. Stay tuned!
 
 ## Dependencies
 
-#### Control and Planning
+#### Control, Planning and Optimization
 * [`YALMIP`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
+* [`MOSEK`](https://www.mosek.com/) (Quadratic programming solver. Alternatively, you may consider MATLAB's default `quadprog`.)
 
 #### Shielding
 * [`Level Set Toolbox`](https://www.cs.ubc.ca/~mitchell/ToolboxLS/) (Toolbox for solving HJ PDE)
@@ -73,10 +75,10 @@ The Python implementation is being actively developed. Stay tuned!
    ```sh
    git clone https://github.com/SafeRoboticsLab/SHARP.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. In MATLAB, run the [`main.m`](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/main.m) script to reproduce our results.
+
+
+## Dataset
 
 
 
