@@ -58,7 +58,7 @@ The Python implementation is being actively developed. Stay tuned!
 
 ## Dependencies
 
-#### Control, Planning and Optimization
+#### Trajectory Optimization
 * [`MPT3`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
 * [`MOSEK`](https://www.mosek.com/) (Quadratic programming solver. Alternatively, you may consider MATLAB's default `quadprog`.)
 
@@ -80,7 +80,7 @@ In this repository, we provide an example of SHARP applied for human-robot inter
 3. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
 
 ## Dataset
-We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered out 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/data/motion/). Raw data with filtered trajectories can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Trajectories converted into MATLAB's cell format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
+We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered out 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/data/motion/). Raw data with filtered trajectories in `npy format` can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Trajectories converted into MATLAB's `cell` format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
 
 
 <!-- USAGE EXAMPLES 
