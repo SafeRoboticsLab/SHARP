@@ -80,7 +80,7 @@ In this repository, we provide an example of SHARP applied for human-robot inter
 3. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
 
 ## Dataset
-We use the human driver's trajecotries from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/download/). Raw data with filtered trajectories can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Filtered trajectories in MATLAB's cell format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
+We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/download/). Raw data with filtered trajectories can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Filtered trajectories in MATLAB's cell format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
 
 
 <!-- USAGE EXAMPLES 
@@ -134,7 +134,7 @@ Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/resear
 ## Acknowledgements
 
 * This research is supported by the [Princeton Project X](https://aspire-report.princeton.edu/engineering/project-x-fund) Program.
-* We use the human driver's trajecotries from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/).
+* We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/).
 
 
 
