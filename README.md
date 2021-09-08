@@ -59,7 +59,7 @@ The Python implementation is being actively developed. Stay tuned!
 ## Dependencies
 
 #### Control, Planning and Optimization
-* [`YALMIP`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
+* [`MPT3`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
 * [`MOSEK`](https://www.mosek.com/) (Quadratic programming solver. Alternatively, you may consider MATLAB's default `quadprog`.)
 
 #### Shielding
