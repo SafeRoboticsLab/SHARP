@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-SHARP: Shielding-Aware Robust Planning is a general framework for safe and efficient human-robot interaction (HRI). We provide an MATLAB implementation of SHARP for autonomous driving scenarios, which can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB).
+SHARP: Shielding-Aware Robust Planning is a general framework for safe and efficient human-robot interaction (HRI). We provide a MATLAB implementation of SHARP for autonomous driving scenarios, which can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB).
 
 The Python implementation is being actively developed. Stay tuned!
 
@@ -67,7 +67,7 @@ The Python implementation is being actively developed. Stay tuned!
 * [`helperOC `](https://github.com/HJReachability/helperOC) (Toolbox for HJ-based shielding)
 
 #### Visualization
-* [`Robotics Toolbox for MATLAB `](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).)
+* [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).)
 
 ## Example
 In this repository, we provide an example of SHARP applied for human-robot interactive driving scenarios.
@@ -80,7 +80,7 @@ In this repository, we provide an example of SHARP applied for human-robot inter
 3. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
 
 ## Dataset
-We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/download/). Raw data with filtered trajectories can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Filtered trajectories in MATLAB's cell format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
+We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered out 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/download/). Raw data with filtered trajectories can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Filtered trajectories in MATLAB's cell format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
 
 
 <!-- USAGE EXAMPLES 
