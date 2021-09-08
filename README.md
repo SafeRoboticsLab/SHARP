@@ -34,16 +34,9 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#example">Example</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#dependencies">Dependencies</a></li>
+    <li><a href="#example">Example</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -60,18 +53,16 @@ SHARP: Shielding-Aware Robust Planning is a general framework for safe and effic
 The Python implementation is being actively developed. Stay tuned!
 
 
+## Dependencies
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Dependencies
-
+#### Control and Planning
 * [`YALMIP`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
-* 
 
-### Example
+#### Shielding
+* [`Level Set Toolbox`](https://www.cs.ubc.ca/~mitchell/ToolboxLS/) (Toolbox for solving HJ PDE)
+* [`helperOC `](https://github.com/HJReachability/helperOC) (Toolbox for HJ-based shielding)
+
+## Example
 
 1. Clone the repo
    ```sh
