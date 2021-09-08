@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-SHARP: Shielding-Aware Robust Planning is a general framework for safe and efficient human-robot interaction. We provide a MATLAB implementation of SHARP for autonomous driving scenarios, which can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB).
+SHARP: Shielding-Aware Robust Planning is a general framework for safe and efficient human-robot interaction. We provide a MATLAB implementation of SHARP for autonomous driving applications, which can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB).
 
 The Python implementation is being actively developed. Stay tuned!
 
