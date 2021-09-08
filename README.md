@@ -16,6 +16,7 @@
 
   <p align="center">
     SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction
+    <!--
     <br />
     <a href="https://github.com/SafeRoboticsLab/SHARP"><strong>Explore the docs »</strong></a>
     <br />
@@ -25,6 +26,7 @@
     <a href="https://github.com/SafeRoboticsLab/SHARP/issues">Report Bug</a>
     ·
     <a href="https://github.com/SafeRoboticsLab/SHARP/issues">Request Feature</a>
+    -->
   </p>
 </p>
 
@@ -61,6 +63,9 @@ The Python implementation is being actively developed. Stay tuned!
 #### Shielding
 * [`Level Set Toolbox`](https://www.cs.ubc.ca/~mitchell/ToolboxLS/) (Toolbox for solving HJ PDE)
 * [`helperOC `](https://github.com/HJReachability/helperOC) (Toolbox for HJ-based shielding)
+
+#### Visualization
+* [`Robotics Toolbox for MATLAB `](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).)
 
 ## Example
 
