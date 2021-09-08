@@ -70,13 +70,14 @@ The Python implementation is being actively developed. Stay tuned!
 * [`Robotics Toolbox for MATLAB `](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).)
 
 ## Example
+In this repository, we provide an example of SHARP applied for human-robot interactive driving scenarios.
 
 1. Clone the repo
    ```sh
    git clone https://github.com/SafeRoboticsLab/SHARP.git
    ```
 2. In MATLAB, run the [`main.m`](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/main.m) script to reproduce our results.
-
+3. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
 
 ## Dataset
 
