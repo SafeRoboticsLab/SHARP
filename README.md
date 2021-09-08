@@ -40,7 +40,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#dependencies">Dependencies</a></li>
         <li><a href="#example">Example</a></li>
       </ul>
     </li>
@@ -55,7 +55,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-SHARP: Shielding-Aware Robust Planning is a general framework for safe and efficient human-robot interaction (HRI). We provide an MATLAB implementation of SHARP for autonomous driving, which can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB).
+SHARP: Shielding-Aware Robust Planning is a general framework for safe and efficient human-robot interaction (HRI). We provide an MATLAB implementation of SHARP for autonomous driving scenarios, which can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB).
+
+The Python implementation is being actively developed. Stay tuned!
 
 
 
@@ -64,13 +66,10 @@ SHARP: Shielding-Aware Robust Planning is a general framework for safe and effic
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Dependencies
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* [`YALMIP`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
+* 
 
 ### Example
 
@@ -128,7 +127,7 @@ Haimin Hu - [@HaiminHu](https://twitter.com/HaiminHu) - haiminh@princeton.edu
 
 Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/SafeRoboticsLab/SHARP)
 
-Homepage Link: [https://haiminhu.org/research/sharp/](https://haiminhu.org/research/sharp)
+Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/research/sharp)
 
 
 
