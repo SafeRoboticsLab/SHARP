@@ -42,6 +42,7 @@
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#paper">Paper</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -132,14 +133,17 @@ Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/Safe
 Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/research/sharp)
 
 
+<!-- PAPER -->
+## Paper
+
+Available on arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * This research is supported by the [Princeton Project X](https://aspire-report.princeton.edu/engineering/project-x-fund) Program.
 * We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/).
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
