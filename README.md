@@ -57,7 +57,7 @@ SHARP: Shielding-Aware Robust Planning is a general framework for safe and effic
 The Python implementation is being actively developed. Stay tuned!
 
 Click to watch our spotlight video:
-[![Watch the video](https://haiminhu.files.wordpress.com/2021/10/sharp_video_cover.png)](https://haiminhu.files.wordpress.com/2021/10/sharp_video.mp4)
+[![Watch the video](https://haiminhu.files.wordpress.com/2021/10/sharp_video_cover.png)](https://haiminhu.files.wordpress.com/2022/02/sharp_video.mp4)
 
 
 ## Dependencies
