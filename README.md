@@ -136,6 +136,8 @@ Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/resear
 <!-- PAPER -->
 ## Paper
 
+Update: our paper has been accepted to IEEE RA-L. We will post the link and DOI soon.
+
 Available on arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
 
 ```tex
