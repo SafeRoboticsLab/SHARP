@@ -141,11 +141,15 @@ Update: our paper has been accepted to IEEE RA-L/ICRA 2022. We will post the lin
 Available on arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
 
 ```tex
-@article{hu2021sharp,
-  title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction},
-  author={Hu, Haimin and Nakamura, Kensuke and Fisac, Jaime F},
-  journal={arXiv preprint arXiv:2110.00843},
-  year={2021}
+@ARTICLE{hu2022sharp,  
+author={Hu, Haimin and Nakamura, Kensuke and Fernandez Fisac, Jaime},
+journal={IEEE Robotics and Automation Letters},
+title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction},
+year={2022},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/LRA.2022.3155229}
 }
 ```
 
