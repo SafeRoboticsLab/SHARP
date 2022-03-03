@@ -144,14 +144,14 @@ arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
 
 ```tex
 @ARTICLE{hu2022sharp,  
-author={Hu, Haimin and Nakamura, Kensuke and Fernandez Fisac, Jaime},
-journal={IEEE Robotics and Automation Letters},
-title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction},
-year={2022},
-volume={},
-number={},
-pages={1-1},
-doi={10.1109/LRA.2022.3155229}
+  author={Hu, Haimin and Nakamura, Kensuke and Fernandez Fisac, Jaime},
+  journal={IEEE Robotics and Automation Letters},
+  title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction},
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LRA.2022.3155229}
 }
 ```
 
