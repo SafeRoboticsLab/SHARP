@@ -138,9 +138,9 @@ Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/resear
 
 Update: our paper has been accepted to IEEE RA-L/ICRA 2022.
 
-Link on IEEE Xplore: [https://ieeexplore.ieee.org/document/9723544](https://ieeexplore.ieee.org/document/9723544)
+IEEE Xplore: [https://ieeexplore.ieee.org/document/9723544](https://ieeexplore.ieee.org/document/9723544)
 
-Link on arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
+arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
 
 ```tex
 @ARTICLE{hu2022sharp,  
