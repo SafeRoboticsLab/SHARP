@@ -136,8 +136,6 @@ Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/resear
 <!-- PAPER -->
 ## Paper
 
-Update: our paper has been accepted to IEEE RA-L/ICRA 2022.
-
 IEEE Xplore: [https://ieeexplore.ieee.org/document/9723544](https://ieeexplore.ieee.org/document/9723544)
 
 arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
@@ -152,6 +150,18 @@ arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
   number={2},
   pages={5591-5598},
   doi={10.1109/LRA.2022.3155229}
+}
+```
+
+Our follow-up paper:
+
+```tex
+@article{hu2022active,
+  title={Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach},
+  author={Hu, Haimin and Fisac, Jaime F},
+  booktitle={Algorithmic Foundations of Robotics XV},
+  year={2022},
+  publisher={Springer}
 }
 ```
 
