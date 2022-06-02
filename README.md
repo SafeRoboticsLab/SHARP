@@ -141,7 +141,7 @@ IEEE Xplore: [https://ieeexplore.ieee.org/document/9723544](https://ieeexplore.i
 arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
 
 ```tex
-@ARTICLE{hu2022sharp,
+@article{hu2022sharp,
   author={Hu, Haimin and Nakamura, Kensuke and Fisac, Jaime F.},
   journal={IEEE Robotics and Automation Letters}, 
   title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction}, 
@@ -156,7 +156,7 @@ arXiv: [https://arxiv.org/abs/2110.00843](https://arxiv.org/abs/2110.00843)
 Our follow-up paper:
 
 ```tex
-@article{hu2022active,
+@incollection{hu2022active,
   title={Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach},
   author={Hu, Haimin and Fisac, Jaime F},
   booktitle={Algorithmic Foundations of Robotics XV},
