@@ -76,12 +76,16 @@ Click to watch our spotlight video:
 ## Example
 In this repository, we provide an example of SHARP applied for human-robot interactive driving scenarios.
 
+**Quickstart**
 1. Clone the repo
    ```sh
    git clone https://github.com/SafeRoboticsLab/SHARP.git
    ```
-2. In MATLAB, run the [`main.m`](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/main.m) script to reproduce our results.
-3. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
+2. Install all dependencies.
+3. Under the root directory of [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/), **replace** `plot_vehicle.m` with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).
+4. **Merge** [`helperOC`](https://github.com/HJReachability/helperOC) with [ours](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/ThirdParty/helperOC), which contains the customized dynamics and shielding policy.
+5. In MATLAB, run the [`main.m`](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/main.m) script to reproduce our results.
+6. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
 
 ## Dataset
 We use the human driver's trajectories from the [Waymo Open Motion Dataset](https://waymo.com/open/data/motion/). In particular, we filtered out 50 representative highway overtaking scenarios from the [original dataset](https://waymo.com/open/data/motion/). Raw data with filtered trajectories in `npy` format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data/waymo_motion_dataset/filtered_raw_data). Trajectories converted into MATLAB's `cell` format can be found [here](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/data).
