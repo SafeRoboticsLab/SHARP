@@ -63,15 +63,15 @@ Click to watch our spotlight video:
 ## Dependencies
 
 #### Trajectory Optimization
-* [`MPT3`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization.)
-* [`MOSEK`](https://www.mosek.com/) (Quadratic programming solver. Alternatively, you may consider MATLAB's default `quadprog`.)
+* [`MPT3`](https://www.mpt3.org/) (Toolbox for MPC and parametric optimization)
+* [`MOSEK`](https://www.mosek.com/) (Quadratic programming solver. Alternatively, you may consider MATLAB's default `quadprog`)
 
 #### Shielding
-* [`Level Set Toolbox`](https://www.cs.ubc.ca/~mitchell/ToolboxLS/) (Toolbox for solving HJ PDE.)
-* [`helperOC`](https://github.com/HJReachability/helperOC) (Toolbox for HJ-based shielding.)
+* [`Level Set Toolbox`](https://www.cs.ubc.ca/~mitchell/ToolboxLS/) (Toolbox for solving HJ PDE)
+* [`helperOC`](https://github.com/HJReachability/helperOC) (Toolbox for HJ-based shielding)
 
 #### Visualization
-* [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).)
+* [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m))
 
 ## Example
 In this repository, we provide an example of SHARP applied for human-robot interactive driving scenarios.
