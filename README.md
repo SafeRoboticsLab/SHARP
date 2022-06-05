@@ -71,7 +71,7 @@ Click to watch our spotlight video:
 * [`helperOC`](https://github.com/HJReachability/helperOC) (Toolbox for HJ-based shielding)
 
 #### Visualization
-* [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles. You need to first install it in MATLAB and then replace `plot_vehicle.m` in the root directory with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m))
+* [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/) (Tools for plotting the vehicles)
 
 ## Example
 In this repository, we provide an example of SHARP applied for human-robot interactive driving scenarios.
