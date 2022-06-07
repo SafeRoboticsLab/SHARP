@@ -84,7 +84,7 @@ In this repository, we provide an example of SHARP applied for human-robot inter
 2. Install all dependencies.
 3. Under the root directory of [`Robotics Toolbox for MATLAB`](https://petercorke.com/toolboxes/robotics-toolbox/), **replace** `plot_vehicle.m` with [ours](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/ThirdParty/Robotics%20Toolbox%20for%20MATLAB/plot_vehicle.m).
 4. **Merge** [`helperOC`](https://github.com/HJReachability/helperOC) with [ours](https://github.com/SafeRoboticsLab/SHARP/tree/main/MATLAB/ThirdParty/helperOC), which contains the customized dynamics and shielding policy.
-5. In MATLAB, run the [`main.m`](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/main.m) script to reproduce our results.
+5. In MATLAB, run [`main.m`](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/main.m) to reproduce our results.
 6. (Optional) You may change the problem specifications and planner parameters in [here](https://github.com/SafeRoboticsLab/SHARP/blob/main/MATLAB/util/initializePlanner.m).
 
 ## Dataset
