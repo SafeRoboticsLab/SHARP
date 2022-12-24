@@ -168,7 +168,7 @@ Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/220
   booktitle={Algorithmic Foundations of Robotics XV},
   pages={385--401},
   year={2023},
-  organization={Springer International Publishing}
+  publisher={Springer International Publishing}
 }
 ```
 
